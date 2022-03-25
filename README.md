@@ -162,3 +162,12 @@
 </style>
 ```
 ![img 8](img/8-STYLE_FORM.JPG)
+
+# Pertanyaan dan tugas
+### Buatlah form yang menampilkan ***dropdown*** menu dan ***listbox*** dengan multiple selection.
+
+## **Dropdown**
+![img 9](img/Task1.JPG)
+
+## **Listbox** dengan multiple
+![img 10](img/Task2.JPG)
