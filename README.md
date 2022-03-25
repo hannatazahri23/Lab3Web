@@ -167,7 +167,31 @@
 ### Buatlah form yang menampilkan ***dropdown*** menu dan ***listbox*** dengan multiple selection.
 
 ## **Dropdown**
+```html
+<p>
+    <label for="#">Position</label>
+    <select name="position" id="position">
+        <option>- choose your lane -</option>
+        <option value="Jungler">Jungler</option>
+        <option value="Roamer">Roamer</option>
+        <option value="Midlaner">Mid-laner</option>          
+        <option value="EXPlaner">EXP-laner</option>        
+        <option value="GOLDlaner">GOLD-laner</option>
+    </select>
+</p>
+```
 ![img 9](img/Task1.JPG)
 
 ## **Listbox** dengan multiple
+```html
+<p>
+    <label for="#">Roll Player</label>
+    <select name="RP" id="RP" multiple size="5">- choose your role -/select>
+    <option value="marksman">Marksman</option>
+    <option value="fighter">Fighter</option>
+    <option value="tank">Tank</option>
+    <option value="mage">Mage</option>
+    <option value="support">Support</option>
+</p>
+```
 ![img 10](img/Task2.JPG)
